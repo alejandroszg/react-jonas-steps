@@ -3,7 +3,7 @@ import { useState } from "react";
 const messages = [
   "Learn React ⚛️",
   "Apply for good jobs 💼",
-  "Invest your new income 🤑",
+  "Invest your new income! 🤑",
 ];
 
 export default function App() {
